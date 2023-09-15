@@ -1,0 +1,21 @@
+# Arquivos e diretórios Node.js
+node_modules/
+package-lock.json
+npm-debug.log
+yarn-error.log
+
+# Arquivos de log
+logs/
+*.log
+
+# Arquivos temporários
+*.tmp
+
+# Arquivos de build
+build/
+dist/
+
+# Dependendo do seu ambiente de desenvolvimento, você também pode adicionar
+# arquivos específicos, como os gerados por editores ou sistemas operacionais.
+# Por exemplo, para o Visual Studio Code:
+.vscode/
